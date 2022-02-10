@@ -1,0 +1,25 @@
+GNSS_W18.11.3:
+
+firmware:
+GE2:GE2_16A_W18.11.3_GLO@GE2_16A_W18.11.3_BDS@GE2_16A_W18.11.3
+
+AGPS:
+AGNSS_W18.02.4_V18.0.2
+
+从GNSS_W17.37.1开始,GNSS的firmware和AGPS,libgps将分别出版本
+W18.11.3更新的版本:firmware
+W18.6.3 更新的版本:firmware
+W18.4.1 更新证书:  spirentroot.cer
+W18.2.4 更新的版本:AGPS和firmware
+W18.1.2 更新的版本:AGPS
+W17.51.4更新的版本:firmware
+W17.49.5更新的版本:AGPS
+W17.49.4更新的版本:firmware和AGPS
+W17.47.5更新的版本:firmware
+W17.45.5更新的版本:firmware
+W17.43.4更新的版本:firmware
+W17.42.3更新的版本:firmware
+W17.41.5更新的版本:firmware
+W17.39.4更新的版本:firmware
+W17.38.4更新的版本:firmware
+W17.37.1更新的版本:AGPS
